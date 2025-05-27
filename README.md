@@ -15,6 +15,11 @@ This ensures **all departments work with the most current and aligned project da
 
 ---
 
+### Flow
+![Screenshot](./assets/1.jpg)
+
+---
+
 ## ✨ Features & Functionality
 - **Scheduled Automation**: Triggers daily or hourly to check for updates.
 - **HTTP Request**: Securely calls a Quattrofy API endpoint to execute the sync logic.
